@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... -->
 <p align="center">
-- 🌱 I’m currently learning JavaScript and Nodejs</br>
-- 👯 I’m looking to collaborate on Backend </br>
+- 🌱 I’m currently learning JavaScript and Nodejs and Reactjs</br>
+<!-- - 👯 I’m looking to collaborate on Backend </br> -->
 - 🤔 I’m looking for help with Fullstack</br>
-- 💬 Ask me about code</br>
+<!-- - 💬 Ask me about </br> -->
 </p>
   
 <!-- - 📫 How to reach me: 
