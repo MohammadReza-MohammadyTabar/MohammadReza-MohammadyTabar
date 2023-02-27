@@ -66,8 +66,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
       alt="redis"/>
   </a> -->
-  <a href="(https://www.microsoft.com/en-ca/sql-server/sql-server-downloads)" target="_blank"> 
-    <img src="(https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)"
+  <a href="https://www.microsoft.com/en-ca/sql-server/sql-server-downloads" target="_blank"> 
+    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"
       alt="redis"/>
   <a href="https://www.mongodb.com/" target="_blank" align="center"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
