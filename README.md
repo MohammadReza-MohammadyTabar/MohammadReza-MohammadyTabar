@@ -60,19 +60,19 @@ Here are some ideas to get you started:
   
 </p>
   
-<!--  <h3 align="center">Database</h3>
-<p align="center">
+ <h3 align="center">Database</h3>
+<!-- <p align="center">
   <a href="https://redis.io" target="_blank"> 
     <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
       alt="redis"/>
-  </a>
+  </a> -->
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a> 
 </p>
 
-<h3 align="center">Cloud & Hosting:</h3>
+<!-- <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
       alt="heroku"/> 
   </a> 
 </p>
--->
+ -->
 <h3 align="center">Version Control & CI/CD</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
