@@ -66,7 +66,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
       alt="redis"/>
   </a> -->
-  <a href="https://www.mongodb.com/" target="_blank"> 
+  <a href="https://www.mongodb.com/" target="_blank" align="center"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a> 
