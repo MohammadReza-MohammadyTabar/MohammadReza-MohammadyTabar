@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 </p>
   
  <h3 align="center">Database</h3>
-<!-- <p align="center">
-  <a href="https://redis.io" target="_blank"> 
+<p align="center">
+<!--   <a href="https://redis.io" target="_blank"> 
     <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
       alt="redis"/>
   </a> -->
