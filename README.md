@@ -57,7 +57,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
       alt="nodejs"/> 
   </a>
-  
+  <a href="https://expressjs.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"
+      alt="expressjs"/> 
+  </a>
 </p>
   
  <h3 align="center">Database</h3>
