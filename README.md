@@ -61,6 +61,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"
       alt="expressjs"/> 
   </a>
+  <a href="https://nestjs.com/" target="_blank"> 
+    <img src="[https://img.shields.io/badge/Express.js-404D59?style=for-the-badge](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)"
+      alt="nestjs"/> 
+  </a>
 </p>
   
  <h3 align="center">Database</h3>
