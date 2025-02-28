@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... -->
 <p align="center">
-- 🌱 I’m currently a 3 years + backend developer at ofogh comapny</br>
+- 🌱 I’m currently a 3 years + backend developer at Ofogh comapny</br>
 <!-- - 👯 I’m looking to collaborate on Backend </br> -->
 - 🤔 I’m looking for funs in tech</br>
 <!-- - 💬 Ask me about </br> -->
